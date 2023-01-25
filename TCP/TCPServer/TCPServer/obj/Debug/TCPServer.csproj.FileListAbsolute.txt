@@ -1,0 +1,8 @@
+C:\angularwebapi\api\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\angularwebapi\api\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\angularwebapi\api\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\angularwebapi\api\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\angularwebapi\api\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+C:\angularwebapi\api\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\angularwebapi\api\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\angularwebapi\api\TCPServer\TCPServer\obj\Debug\TCPServer.pdb

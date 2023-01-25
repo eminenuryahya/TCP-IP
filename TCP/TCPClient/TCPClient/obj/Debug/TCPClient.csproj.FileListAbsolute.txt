@@ -1,0 +1,8 @@
+C:\angularwebapi\api\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\angularwebapi\api\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\angularwebapi\api\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\angularwebapi\api\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\angularwebapi\api\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+C:\angularwebapi\api\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\angularwebapi\api\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\angularwebapi\api\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
